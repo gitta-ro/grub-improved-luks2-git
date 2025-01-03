@@ -27,7 +27,7 @@ diff --git a/docs/grub-dev.texi b/docs/grub-dev.texi
 index 6c629a23e..ead2a8259 100644
 --- a/docs/grub-dev.texi
 +++ b/docs/grub-dev.texi
-@@ -490,11 +490,75 @@ GRUB includes some code from other projects, and it is sometimes necessary
+@@ -490,12 +490,76 @@ GRUB includes some code from other projects, and it is sometimes necessary
  to update it.
 
  @menu
@@ -2604,22 +2604,5 @@ index 000000000..c933df80d
 --
 2.32.0
 
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAABCgAdFiEEF9hrgiFbCdvenl/rVbJhu7ckPpQFAmEP4xsACgkQVbJhu7ck
-PpRmAA/8C5AlxA0SBA3Avgcm0QDyb1ifNtc8mNCiaVsDV0xfBafVK2IX/dm+q0H7
-fB5Qazpqb+502nZCzyeuyx4PFJj2EPxbw5SSfZKQw97cqO2DArIMduKselHSuopL
-N9myVreoX7bumzeOt4TNFVRKvxqZ1cYCBoLz6AOm9sPhmjf8dzLi0sZ3ZAF7YLza
-bi/lts1TahIOBPk7cpJBOWYK5N/EiLiLmsfSwsZyhrPbzo2f+LVSkf+Ev7/MZfJN
-zhY4OdGb6MCq5JJ6fcAFrqKNfinGbHwfz5S/WyClhfzbbtgGX8NofYx0JNHdVVRw
-pT6/Na/L1gIkVTMfgQn8w0VGcKKXMbqE+pas42W0ZH8pgThh87utZZtlbYQG3kRL
-7oviRYqS1fVKLiDTi1dYE2CKnk2lyy6J8T+Ia2/PR/UGsWbxR5pwFlEWJyqnOIDg
-vq46AQBndRYf8RuJAJr2uPZkl9ZniSL/7IS96yJFzRTAgbYNwgoT8EEI4NJiUmA3
-ySqbEzAx/p7F1E8FFBUtY2onpaiIJAcl39RDK+hd6juHplUfAboUYlznu03YnX7o
-GAWSpA90LuZZ8hTwkBOwOK8SExmOOFh4FvqfJPwSPgHIdM71nsZN2ktHWTymapAg
-ds11gWlKJ50mz4K9KpmA+EdHENmtPhsRb6OcWycYq9X5+o/1TCk=
-=05dK
------END PGP SIGNATURE-----
 
 
